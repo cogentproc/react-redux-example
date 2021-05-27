@@ -1,0 +1,15 @@
+export const TEXT_FIELD = 'TEXT_FIELD';
+export const TEXT_AREA = 'TEXT_AREA';
+export const RADIO_BUTTON = 'RADIO_BUTTON';
+export const DROP_DOWN = 'DROP_DOWN';
+export const CHECK_BOX = 'CHECK_BOX';
+export const DATE = 'DATE';
+export const TIME = 'TIME';
+export const HELPTEXT = 'HELPTEXT';
+export const COMMITTEE = 'COMMITTEE';
+export const USER_INTEGRATION = 'USER_INTEGRATION';
+export const DEPT_INTEGRATION = 'DEPT_INTEGRATION';
+export const FILE_SHARING = 'FILE_SHARING';
+export const NUMBER = 'NUMBER';
+export const AGGREGATE_NUM = 'AGGREGATE_NUM';
+export const WEEK_CALENDAR = 'WEEK_CALENDAR';
